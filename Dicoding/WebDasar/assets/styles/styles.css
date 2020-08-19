@@ -11,7 +11,7 @@
  }
  
  h1 {
-     color: #13f2f2;
+     color: yellow;
  }
 
  h2 {
@@ -78,7 +78,7 @@
 
  footer {
    padding: 5px;
-   color: white;
+   color: yellow;
    background-color:#13f2f2;
  }
 
